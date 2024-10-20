@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="CollectionControls.app/CollectionControls">
+      <IsAppExtension>false</IsAppExtension>
+      <BCSymbolMapName>CollectionControls.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>CollectionControls.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/gobelmo/code/DX212/CollectionControls/CollectionControls/obj/Debug/net8.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>CollectionControls.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/gobelmo/code/DX212/CollectionControls/CollectionControls</SourceProjectPath>
+      <IsXPCService></IsXPCService>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
